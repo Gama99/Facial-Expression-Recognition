@@ -5,7 +5,7 @@
 
 ![](outputs/demo.gif)
 
-**All the models explored are well documented with plots and performance metrics. [Here](https://github.com/greatsharma/Facial-Expression-Recognition/blob/master/CNN.ipynb) it is.**
+**All the models explored are well documented with plots and performance metrics. [Here](https://github.com/Gama99/Facial-Expression-Recognition/blob/master/CNN.ipynb) it is.**
 
 ### Face-Expressions-Recognition
 
@@ -26,7 +26,7 @@ Make sure you have installed TensorFlow, Dlib, Numpy, Scipy, IMutils, OpenCV, Pa
 ```
  python3 iEmotion.py -m <model_to_be_used>
 ```
-You can load your on model in `/outputs/model` or selected one of the available ones, the available models performance and explanation can be accessed [Here](https://github.com/greatsharma/Facial-Expression-Recognition/blob/master/CNN.ipynb)
+You can load your on model in `/outputs/model` or selected one of the available ones, the available models performance and explanation can be accessed [Here](https://github.com/Gama99/Facial-Expression-Recognition/blob/master/CNN.ipynb)
 
 
 ## Contact
